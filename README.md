@@ -1,7 +1,7 @@
 # ⌨️ Keyboard Project: Prototype Carbon
 
 A custom **65% keyboard** with **3u split spacebars**.
-
+[![Watch Video](https://img.youtube.com/vi/WMbd48JGXQo&ab/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://youtu.be/WMbd48JGXQo))
 ---
 
 ## 🛠️ How to Build This Keyboard
