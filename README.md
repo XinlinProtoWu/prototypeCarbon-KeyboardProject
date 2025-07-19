@@ -39,6 +39,8 @@ Additional components not in the BOM:
 ### 7. 🚀 Flash the Firmware
 - Use **QMK Toolbox** to upload the compiled firmware to the keyboard
 
+### 8. 🧩 Upload Keyboard Layout to VIA to view Keymap and Keybinds
+- [📁 View Layout Json](./prototypeCarbonVIA.json)
 ---
 
 ## 🐞 Known Issues
